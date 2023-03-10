@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#https://drive.google.com/drive/folders/1S3a1ALdKjmC9E6-ht1WE7s1Q3U0t7wC_?usp=sharing
+#https://drive.google.com/drive/folders/179irhWl0iKpsTfphVqY74uwuArWmHxYZ?usp=share_link
+
+
 # dependencies
 /node_modules
 /.pnp
